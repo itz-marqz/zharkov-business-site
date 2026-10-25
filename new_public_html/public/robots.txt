@@ -1,0 +1,3 @@
+User-agent: *
+Host: https://zharkov.com.ua
+Sitemap: https://zharkov.com.ua/sitemap.xml
